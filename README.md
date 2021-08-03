@@ -37,11 +37,10 @@ Missing Values: N/A
 
 
 - The precision for the prediction of bad quality wine (0) is 100% where as the precision for prediction of good quality wine (1) is 95%.
-- 
-- The sklearn's random forest classifier model has the overall precision around 91%, which is slightly greater than that of Logistic Regression for this wine quality prediction.
-- 
-- It is possible to increase the quality of the wine on the market and prediction of the quality of wine is possible and obtain more profits.
 
+- The sklearn's random forest classifier model has the overall precision around 91%, which is slightly greater than that of Logistic Regression for this wine quality prediction.
+
+- It is possible to increase the quality of the wine on the market and prediction of the quality of wine is possible and obtain more profits.
 
 
 
